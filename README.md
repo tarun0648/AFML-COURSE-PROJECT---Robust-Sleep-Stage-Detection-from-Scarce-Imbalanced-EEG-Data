@@ -26,6 +26,10 @@ This project focuses on detecting sleep stages using the Sleep-EDF (Sleep Casset
 
 ---
 
+## RESULTS
+![WhatsApp Image 2025-11-18 at 15 21 18](https://github.com/user-attachments/assets/53dcbc23-0f29-41c0-b2c9-b50a30269ebb)
+
+
 ## ⚙️ Installation
 
 Ensure you have Python 3 installed. Run the following commands to install the required dependencies:
