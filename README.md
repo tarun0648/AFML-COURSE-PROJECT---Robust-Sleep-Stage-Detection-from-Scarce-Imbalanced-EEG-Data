@@ -153,9 +153,10 @@ python3 main.py --experiment_description "SSL_SimCLR_VAE" --run_description "Fin
 
 | Name | SRN |
 |------|-----|
-| Adarsh R Menon | PES1UG23AM016 |
+| Tarun S | PES1UG23AM919 |
 | Akshay P Shetti | PES1UG23AM039 |
 | Tarun S | PES1UG23AM919 |
+| Adarsh R Menon | PES1UG23AM016 |
 | Adityaa Kumar H | PES1UG23AM025 |
 
 ---
